@@ -7,7 +7,7 @@ parent: System Administration
 
 # Systems
 
-## ERP (Enterprise Resource Planning) 
+## ERP (Enterprise Resource Planning)
 
 The ERP system dashboard gives you access to different pages in the system depending on your user role. The following are some of the key areas
 
