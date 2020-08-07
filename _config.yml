@@ -29,6 +29,14 @@ remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
+# Aux links for the upper right navigation
+aux_links:
+  "Modus Operandi on GitHub":
+    - "//github.com/epluno/modus-operandi"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
+
 # Footer content 
 # appears at the bottom of every page's main content
 footer_content: "Epluno"

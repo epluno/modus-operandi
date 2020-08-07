@@ -79,7 +79,7 @@ In addition here is a check list of things to do for onboarding a new team membe
 
 We use [Click Up](https://clickup.com/) to keep track of to-do tasks, goals, deadlines, notes, support tickets, etc. It helps teams work together, stay productive, organized, and accountable.
 
-For more information on how to use Click Up click [here](click-up/).
+For more information on how to use Click Up click [here]({{ site.baseurl }}/workflow/development/click-up/).
 
 ## Agile Scrum
 
@@ -154,7 +154,7 @@ Code review is an important step before we start using developed code in product
 
 `ref: Thoughtbot Playbook`
 
-Click [here](code-review/) for more information about code reviews.
+Click [here]({{ site.baseurl }}/workflow/development/code-review/) for more information about code reviews.
 
 ## Freelance Friday
 

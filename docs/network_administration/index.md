@@ -11,13 +11,13 @@ has_children: false
 
 ### Wireless Networks
 
-epluno5G
+- epluno5G
 
-ePI Lyons Secure 
+- ePI Lyons Secure 
 
 ## Communication
 
-We utilize email, [Discord](http://discord.com/), and [Click Up](https://clickup.com/) for communication. See [Communication](https://app.clickup.com/2232791/v/dc/244eq-2107/244eq-322) for more details and procedures.
+We utilize email, [Discord](http://discord.com/), and [Click Up](https://clickup.com/) for communication. See [Communication]({{ site.baseurl }}/communication/) for more details and procedures.
 
 ## Data Storage
 
@@ -43,6 +43,3 @@ When the master server reaches its max load or performance is hindered, it will 
 
 In the case that the database goes down, there are redundancies so that our services can continue to operate.
 
-## Dev Ops
-
-​	CI/CD 

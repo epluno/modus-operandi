@@ -15,9 +15,7 @@ Continuous delivery is an extension of continuous integration to make sure that 
 
 Continuous deployment goes one step further than continuous delivery. With this practice, every change that passes all stages of your production pipeline is released to your customers. There's no human intervention, and only a failed test will prevent a new change to be deployed to production.
 
-```
-ref: Atlassian
-```
+`ref: Atlassian`
 
 ### GitLab pipelines
 
@@ -45,9 +43,7 @@ A typical pipeline might consist of four stages, executed in the following order
 
 - A `production` stage, with a job called `deploy-to-prod`.
 
-```
-ref: GitLab Docs
-```
+`ref: GitLab Docs`
 
 ### GitHub Actions
 

@@ -7,9 +7,7 @@ parent: Workflow
 
 # Quality Assurance
 
-```
-ref: Medium.com (F5 Studio)
-```
+`ref: Medium.com (F5 Studio)`
 
 Quality Assurance (QA) ensures that end-users get a functional user interface and the best user experience when using a web app or website. It examines a website or web application to try and uncover any flaws that might have been overlooked during design and development. 
 
@@ -37,5 +35,5 @@ Functionality testing evaluates both the UI (User Interface) and UX (User Experi
 
 ## Code Review
 
-Code review is also an essential part of QA. See [Code Review](https://app.clickup.com/2232791/v/dc/244eq-2107/244eq-630) for more information on code reviews.
+Code review is also an essential part of QA. See [Code Review]({{ site.baseurl }}/workflow/development/code-review/) for more information on code reviews.
 

@@ -16,9 +16,7 @@ permalink: /communication/
 
 - **Friendly:** We enjoy helping you solve problems for your customers. Our personality and energy will show through in our communication, we hope to see yours as well.
 
-```
-ref: Thoughtbot Playbook 
-```
+`ref: Thoughtbot Playbook`
 
 ## Acceptable Forms of Communication
 
@@ -32,7 +30,7 @@ To mention a person in a group message specifically, type `@username` in the mes
 
 Comments can be made on specific projects, assignments, or tickets within Click Up. Support tickets can also be created in Click Up.
 
-For more information on how we use Click Up click [here](https://app.clickup.com/2232791/v/dc/244eq-2107/244eq-616).
+For more information on how we use Click Up click [here]({{ site.baseurl }}/workflow/development/click-up/).
 
 ### **Email**
 
