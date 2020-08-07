@@ -2,9 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
+layout: home
 ---
 
-# Epluno Modus Operandi
+# Modus Operandi
 
-### Find Eplunos documentaions here!
+### Documentation for Epluno
