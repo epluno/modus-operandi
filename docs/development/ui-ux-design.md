@@ -1,8 +1,8 @@
 ---
 layout: page
 title: UI/UX Design
-permalink: /workflow/ui-ux-design/
-parent: Workflow
+permalink: /development/ui-ux-design/
+parent: Development
 nav_order: 2
 ---
 

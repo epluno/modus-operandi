@@ -3,6 +3,7 @@ layout: page
 title: Quality Assurance
 permalink: /workflow/quality-assurance/
 parent: Workflow
+nav_order: 5
 ---
 
 # Quality Assurance
@@ -35,5 +36,5 @@ Functionality testing evaluates both the UI (User Interface) and UX (User Experi
 
 ## Code Review
 
-Code review is also an essential part of QA. See [Code Review]({{ site.baseurl }}/workflow/development/code-review/) for more information on code reviews.
+Code review is also an essential part of QA. See [Code Review]({{ site.baseurl }}/workflow/code-review/) for more information on code reviews.
 

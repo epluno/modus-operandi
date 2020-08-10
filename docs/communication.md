@@ -30,9 +30,9 @@ To mention a person in a group message specifically, type `@username` in the mes
 
 Comments can be made on specific projects, assignments, or tickets within Click Up. Support tickets can also be created in Click Up.
 
-For more information on how we use Click Up click [here]({{ site.baseurl }}/workflow/development/click-up/).
+For more information on how we use Click Up click [here]({{ site.baseurl }}/workflow/click-up/).
 
-### **Email**
+### Email
 
 Epluno email accounts are used primarily for external communication. Generally should not be used for communication among team members.
 

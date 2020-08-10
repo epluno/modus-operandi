@@ -1,11 +1,10 @@
 ---
 layout: page
 title: Git
-permalink: /workflow/development/git/
-parent: Development
-grand_parent: Workflow
+permalink: /workflow/git/
+parent: Workflow
+nav_order: 3
 ---
-
 
 
 # Git

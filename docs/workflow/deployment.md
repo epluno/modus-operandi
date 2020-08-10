@@ -3,6 +3,7 @@ layout: page
 title: Deployment
 permalink: /workflow/deployment/
 parent: Workflow
+nav_order: 6
 ---
 
 # Deployment
@@ -35,13 +36,13 @@ In general, pipelines are executed automatically and require no intervention onc
 
 A typical pipeline might consist of four stages, executed in the following order:
 
-- A `build` stage, with a job called `compile`.
+1. A `build` stage, with a job called `compile`.
 
-- A `test` stage, with two jobs called `test1` and `test2`.
+2. A `test` stage, with two jobs called `test1` and `test2`.
 
-- A `staging` stage, with a job called `deploy-to-stage`.
+3. A `staging` stage, with a job called `deploy-to-stage`.
 
-- A `production` stage, with a job called `deploy-to-prod`.
+4. A `production` stage, with a job called `deploy-to-prod`.
 
 `ref: GitLab Docs`
 

@@ -1,16 +1,27 @@
 ---
 layout: page
 title: Code Review
-permalink: /workflow/development/code-review/
-parent: Development
-grand_parent: Workflow
+permalink: /workflow/code-review/
+parent: Workflow
+nav_order: 4
 ---
 
 # Code Review
 
 `ref: Thoughtbot Playbook`
 
-A guide for reviewing code and having your code reviewed. 
+Code review is an important step before we start using developed code in production. Reviews that happen before code goes into `master` offer many benefits:
+
+- The whole team learns about new code as it is written.
+
+- Mistakes are caught earlier.
+
+- Coding standards are more likely to be established, discussed, and followed.
+
+- Feedback from this style of code review is far more likely to be applied.
+
+- No one forgets context ("Why did we write this?") since it's fresh in the author's mind.
+
 
 ## Everyone
 

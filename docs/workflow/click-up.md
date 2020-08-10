@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Click Up
-permalink: /workflow/development/click-up/
-parent: Development
-grand_parent: Workflow
+permalink: /workflow/click-up/
+parent: Workflow
+nav_order: 2
 ---
 
 # Click Up
