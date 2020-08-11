@@ -17,7 +17,7 @@ Git is an open source source code control system written by Linus Torvalds. It's
 
 `ref: Thoughtbot Playbook` 
 
-We use GitHub and GitLab for hosting our Git repositories. By using these, our code is always backed up and available for other team members to access.
+We use GitHub and GitLab for hosting our Git repositories. By using these, our code is always backed up and available for other team members to access. We use ssh keys for authenticate so you will need to provide the System Admin with your public ssh key.
 
 Commits should be made often with descriptive messages. They should also be pushed to GitHub or GitLab repos often as well in case anything were to happen to your computer.
 

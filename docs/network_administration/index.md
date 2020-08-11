@@ -23,11 +23,19 @@ We utilize email, [Discord](http://discord.com/), and [Click Up](https://clickup
 
 ### Project Repositories
 
-Project repositories are stored on [GitHub](https://github.com/orgs/epluno/dashboard) and [GitLab](https://gitlab.com/epluno). Its important to push all projects you're working on to the remote repositories for shared access and so its backed up.
+Project repositories are stored on [GitHub](https://github.com/orgs/epluno/dashboard) and [GitLab](https://gitlab.com/epluno). Its important to push all projects you're working on to the remote repositories for shared access and so its backed up. 
 
 ### General
 
 Documents, images, and other files are stored on shared Google Drives. By keeping files on google drive it allows shared access and its backed up.
+
+## Authentication
+
+We use SSH keys for authentication for server access and github repositories.
+
+- SSH keys are very secure and prevent vulnerabilities from poor or reused passwords.
+- By only using SSH keys, we ensure only apporved devices have access.
+- Using SSH keys is more convienet because you don't have to enter your password every time you login.
 
 ## Docker Integration
 

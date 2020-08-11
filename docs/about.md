@@ -32,8 +32,5 @@ The development department strives to:
 
 - Foster best agile practices for fast iterations
 
-The department also focuses on career development and process to make this a preferred destination for high performing software engineers.
-
-We use data to make decisions. If data doesn't exist we use anecdotal information. If anecdotal information isn't available we use first principles.
 
 `ref: Thoughtbot Playbook`

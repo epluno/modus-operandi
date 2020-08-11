@@ -22,10 +22,6 @@ At the beginning of the project define who handles which role. If part of the te
 
 In person communication during a project usually includes frequent updates on current work and various social interactions. The chat channels should be the space where we communicate, so that no one feels left out, especially team members who work remotely. Team members should also be conscious that asynchronous communication means that sometimes the other person is not immediately available to respond, and not expect them to. Furthermore, online communication lacks the non-verbal visual cues such as voice tone and inflection, facial expressions, and body language. We should be more careful in the language that we choose to use. A good reference is [our existing code review guide]({{ site.baseurl }}/workflow/code-review/). 
 
-### Feeling isolated
-
-When working remotely, especially when alone, it is easy to forget how it feels to be immersed in team camaraderie. Video conferencing helps alleviate this feeling as well as occasional visits to the office, or working from a co-working space.
-
 ### Work hours
 
 For some people, it is sometimes difficult to disengage from work when working at home. Also, flexible hours means that sometime one may work non-traditional hours in the day. We should generally be available between 10am and 4pm. We should be conscious to keep to a sustainable pace and take a break away from work.
